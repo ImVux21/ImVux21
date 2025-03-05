@@ -13,8 +13,7 @@ I'm a passionate Backend Developer specializing in Java technologies. With a deg
 - Backend Development
 - Microservices Architecture
 - Cloud Technologies
-- Reactive Programming
-- Solution Architect
+- Software Architect
 
 ## 📫 How to reach me
 - Email: vuodoan@gmail.com
